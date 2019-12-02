@@ -1,0 +1,148 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+
+
+
+#header4-6 P {
+  font-size: 24px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header4-6 I {
+  font-family: 'Oxygen', sans-serif;
+}
+#features1-7 .mbr-section__col .mbr-header__text {
+  font-size: 18px;
+  font-family: 'Oswald', sans-serif;
+}
+#features1-7 P {
+  text-align: left;
+  color: #000000;
+}
+#features1-7 B {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+#features1-7 .btn {
+  font-size: 14px;
+}
+#features1-7 I {
+  font-size: 15px;
+}
+#header4-1d P {
+  text-align: left;
+}
+#dropdown-menu-c .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-c .navbar-brand a {
+  font-size: 16px;
+}
+#dropdown-menu-c .nav .link,
+#dropdown-menu-c .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-c .navbar,
+#dropdown-menu-c .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-c .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-c .dropdown-menu a:hover,
+#dropdown-menu-c .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-c .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-c A {
+  font-size: 18px;
+  font-family: 'Lora', serif;
+}
+#dropdown-menu-c .btn {
+  font-size: 15px;
+}
+#features1-1h .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+#features1-1h P {
+  color: #ffffff;
+}
+#social-buttons2-1l .mbr-header__text {
+  color: #222222;
+}
+#contacts2-1m P {
+  color: #ffffff;
+  font-size: 14px;
+  text-align: left;
+}
+#contacts2-1m DIV {
+  color: #ffffff;
+}
+#contacts2-1m UL {
+  font-size: 15px;
+}
+#footer1-1n P {
+  color: #000000;
+  text-align: center;
+}
+#social-buttons1-1v .mbr-header__text {
+  color: #222222;
+}
+
+#header3-1z H3 {
+  text-align: center;
+}
+#dropdown-menu-d .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-d .navbar-brand a {
+  font-size: 16px;
+}
+#dropdown-menu-d .nav .link,
+#dropdown-menu-d .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-d .navbar,
+#dropdown-menu-d .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-d .dropdown-menu a:hover,
+#dropdown-menu-d .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-d .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-d A {
+  font-size: 18px;
+  font-family: 'Lora', serif;
+}
+#dropdown-menu-d .btn {
+  font-size: 15px;
+}
+#footer1-1n P {
+  color: #000000;
+  text-align: center;
+}
+#contacts2-1m P {
+  color: #ffffff;
+  font-size: 14px;
+  text-align: left;
+}
+#contacts2-1m DIV {
+  color: #ffffff;
+}
+#contacts2-1m UL {
+  font-size: 15px;
+}
